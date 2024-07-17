@@ -2,7 +2,7 @@ export default function Home() {
   return (
     
       <div>
-        <p>{"oi salve"}</p>
+        <p>{"oi salve e"}</p>
       </div>
      
   );
