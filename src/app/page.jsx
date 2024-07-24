@@ -4,6 +4,6 @@ export default function Home() {
       <div>
         <p>{"oi salve e"}</p>
       </div>
-     
+   
   );
 }
